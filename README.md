@@ -1,3 +1,5 @@
+
+
 Les Big Data ont 5 caractéristiques : la vélocité, le volume, la variété, la véracité et la valeur.
 
 
@@ -18,6 +20,8 @@ les méthodes d'analyse dans le système.
 
 
 La régression identifie la force et le montant de la corrélation entre une ou plusieurs entrées et une sortie.
+
+
 
 
 Les compétences impliquées dans le traitement des Big Data comprennent l'application de statistiques, de modèles d'apprentissage automatique et un peu 
