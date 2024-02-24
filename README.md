@@ -1,4 +1,4 @@
-
+ALOOOO
 
 Les Big Data ont 5 caractéristiques : la vélocité, le volume, la variété, la véracité et la valeur.
 
